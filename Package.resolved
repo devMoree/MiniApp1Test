@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "just",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/JustHTTP/Just.git",
+      "state" : {
+        "revision" : "1824bf84cf52d11d69ae20cfb89f0ce5bffa5650",
+        "version" : "0.8.0"
+      }
+    }
+  ],
+  "version" : 2
+}
