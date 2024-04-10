@@ -17,5 +17,6 @@ public struct SwiftUIView: View {
     }
     public var body: some View {
         Text("test demo coed  :: \(self.text)")
+        
     }
 }
